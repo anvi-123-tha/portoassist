@@ -1,0 +1,6 @@
+{
+  "name": "PortoAssist — Accessible Luggage & Mobility Support",
+  "description": "An accessible, voice-enabled platform for on-demand luggage assistance and mobility support across airports, railway stations, and bus terminals.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
